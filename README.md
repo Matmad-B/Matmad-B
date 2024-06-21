@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Matmad-B
 - 👀 I’m interested in almost everything,really, though I'm more focused on AI than anything else.
-- 🌱 I’m currently learning Machine Learning and Big Data at Institut Polytechnique.
-- 💞️ I’m looking to collaborate on the Tactile Internet of Things, and Machine Vision, more precisely Image Recognition.
+- 🌱 I’m currently learning Artificial Intelligence and Big Data at Institut Polytechnique.
+- 💞️ I’m looking to collaborate on the XAI, especially the explainability of neural networks, and Machine Vision, more precisely Image Recognition.
 - 📫 How to contact me: if you have my CV, send me an email. Else, message me on [Linkedin](https://www.linkedin.com/in/mathilde-bonin-505844229/).
 
 <!---
